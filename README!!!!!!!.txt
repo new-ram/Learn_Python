@@ -1,3 +1,4 @@
 README
 =============================================================================
-Training material for everyone who wants to learn Python 
+Training material for everyone who wants to learn Python
+update from Laptop
